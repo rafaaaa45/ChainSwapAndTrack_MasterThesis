@@ -1,0 +1,13 @@
+2026-07-12T18:29:18.218Z [info] ChainGuard server running on port 3000
+2026-07-12T18:29:18.254Z [info] Available networks: bitcoin, ethereum, polygon, solana
+2026-07-12T18:29:29.643Z [info] GET /api/networks 200 (8ms)
+2026-07-12T18:29:46.166Z [info] POST /api/validate 200 (255ms)
+2026-07-12T18:29:46.246Z [info] POST /api/validate 200 (3ms)
+2026-07-12T18:45:42.961Z [info] ChainGuard server running on port 3000
+2026-07-12T18:45:42.999Z [info] Available networks: ethereum, polygon
+2026-07-12T18:46:01.380Z [info] GET /api/networks 200 (5ms)
+2026-07-12T18:46:01.458Z [info] GET /api/docs 404 (1ms)
+2026-07-12T18:46:01.548Z [info] POST /api/validate 200 (4ms)
+2026-07-12T20:51:30.884Z [info] GET / 200 (13ms)
+2026-07-12T20:51:30.982Z [info] GET /api/networks 500 (4ms)
+2026-07-12T20:51:31.022Z [info] GET /favicon.ico 404 (2ms)
